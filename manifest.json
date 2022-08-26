@@ -1,0 +1,10 @@
+{
+    "id": "obsidian-file-history",
+    "name": "File History ",
+    "version": "1.0.0",
+    "minAppVersion": "0.15.0",
+    "description": "Offers a ordered view by last created or last modified markdown files.",
+    "author": "r4ph3rd",
+    "authorUrl": "https://github.com/R4ph3rd",
+    "isDesktopOnly": false
+}
